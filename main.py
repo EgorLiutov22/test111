@@ -12,7 +12,7 @@ def summ(a, b):
     >>> summ(-3, 5)
     2
     """
-    return a + b
+    return a + b+1
 
 if __name__ == '__main__':
     print(summ(1, 2))
