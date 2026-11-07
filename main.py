@@ -1,3 +1,4 @@
 print('hello world')
 print('commit from dev2 branch')
 print('next change')
+print('commit from dev1 branch and next change')
